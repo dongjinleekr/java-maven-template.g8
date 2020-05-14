@@ -7,4 +7,4 @@ do
   classpath="$file:$classpath"
 done
 
-java -cp ${classpath}${project.build.finalName}.jar com.dongjin.example.maven.App $@
+java -cp ${classpath}${project.build.finalName}.jar $package$.App $@

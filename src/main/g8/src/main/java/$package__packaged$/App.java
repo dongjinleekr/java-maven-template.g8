@@ -1,4 +1,4 @@
-package com.dongjin.example.maven;
+package $package$;
 
 import com.google.common.collect.Range;
 
